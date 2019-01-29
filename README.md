@@ -1,1 +1,1 @@
-# Angular 7 + Spring Boot 2.1
+# Full stack projects
